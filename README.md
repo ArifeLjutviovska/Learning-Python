@@ -20,7 +20,7 @@ This repository is dedicated to my personal journey of learning Python. It conta
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ArifeLjutviovska/Learning-Python.git```
+   git clone https://github.com/ArifeLjutviovska/Learning-Python.git
 
 2. Navigate to the directory of the project:
  ```cd Learning-Python```
