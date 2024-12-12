@@ -26,4 +26,4 @@ This repository is dedicated to my personal journey of learning Python. It conta
  ```cd Learning-Python```
 
 3. Run any Python script by executing:
- ```python filename.py```
+ ```python <filename>.py```
